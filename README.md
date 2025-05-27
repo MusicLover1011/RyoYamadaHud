@@ -4,16 +4,16 @@ also also this comes with absolutely NO license :)
 
 
 
-to use the hud put it in your custom located in "Team Fortress 2/tf/custom"
+to use the hud put it in your custom folder located in "Team Fortress 2/tf/custom"
 
 
 
-this hud supports linux. i dont know if it support windows or mac because i dont use em soo if you can please tell me if they work on those platforms
+this hud supports linux. i dont know if it support windows or mac because i dont use em soo  please tell me if they work on those platforms if you can
 
-also also this hud is built entirely from scrach so it will take a very long while to actually implement everything i want
+also also this hud is built entirely from scrach so it will take a very long time to actually implement everything i want
 
 
-SCREENSHOTS:
+SCREENSHOTS:   (as of 27-5-2025 )
 
 ![Image couldn't be loaded](Screenshot_1.png)
 
@@ -56,5 +56,6 @@ https://wallhaven.cc/w/weee76
 
 
 
-if you want to remove ryo yamada from the corner (you arent a real ryo yamada fan >:(  jk )  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 0 or by setting the xpos to 10000  
+if you want to remove ryo yamada from the corner (you arent a real ryo yamada fan >:(  jk )  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
+0 or by setting the xpos to 10000  
 
