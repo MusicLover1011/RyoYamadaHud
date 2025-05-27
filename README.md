@@ -51,7 +51,7 @@ ______________________________
 
 
 
-Wallpapers used if anyone is intersted :p<br />
+Wallpapers used in hud if anyone is intersted :p<br />
 <br />
 wallpaper 1: https://wall.alphacoders.com/big.php?i=1296272<br />
 wallpaper 2: https://wallpapercave.com/w/wp13072196<br />
