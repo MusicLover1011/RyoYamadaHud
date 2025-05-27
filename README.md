@@ -43,6 +43,14 @@ ______________________________
 
 
 
+
+
+
+
+
+
+
+
 Wallpapers used if anyone is intersted :p
 
 https://wall.alphacoders.com/big.php?i=1296272
@@ -56,6 +64,21 @@ https://wallhaven.cc/w/weee76
 
 
 
-if you want to remove ryo yamada from the corner (you arent a real ryo yamada fan >:(  jk )  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if you want to remove ryo yamada from the corner you arent a real ryo yamada fan >:(.  jk  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
 0 or by setting the xpos to 10000  
 
