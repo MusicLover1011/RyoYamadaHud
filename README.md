@@ -63,9 +63,6 @@ wallpaper 4: https://wallhaven.cc/w/weee76<br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 
 if you want to remove ryo yamada from the corner you arent a real ryo yamada fan >:(.  jk  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
