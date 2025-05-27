@@ -44,41 +44,30 @@ ______________________________
 
 
 
+<br />
+<br />
+<br />
 
 
 
 
+Wallpapers used if anyone is intersted :p<br />
+<br />
+wallpaper 1: https://wall.alphacoders.com/big.php?i=1296272<br />
+wallpaper 2: https://wallpapercave.com/w/wp13072196<br />
+wallpaper 3: https://wallpapercave.com/w/wp13072166<br />
+wallpaper 4: https://wallhaven.cc/w/weee76<br />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
-
-Wallpapers used if anyone is intersted :p
-
-https://wall.alphacoders.com/big.php?i=1296272
-_
-https://wallpapercave.com/w/wp13072196
-_
-https://wallpapercave.com/w/wp13072166
-_
-https://wallhaven.cc/w/weee76
-_
-
-
-
-
-
-
-
-
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
 if you want to remove ryo yamada from the corner you arent a real ryo yamada fan >:(.  jk  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
 0 or by setting the xpos to 10000  
 
