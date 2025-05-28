@@ -3003,4 +3003,14 @@
 			"angles_z"		"0"
 		}
 	}
+
+
+	"DashboardDimmer"
+	{
+		"wide" "1000"
+		"tall" "435"
+		"alpha" "0"
+		"color" "White"
+		"fg_override" "white"
+	}
 }
