@@ -73,7 +73,7 @@ wallpaper 4: https://wallhaven.cc/w/weee76<br />
 if you want to remove ryo yamada from the corner you arent a real ryo yamada fan >:(.  jk  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
 0 or by setting the xpos to 10000  
 
-If you want to delete the slightly nsfw picture on the leader board pictures go to resource/ui/scoreboard.res and the scroll to the bottom. Afterwards go to RyoScore2 image panel and set it either to xpos 100000 or set visible and enabled to 0
+If you want to delete the slightly nsfw picture on the score board pictures go to resource/ui/scoreboard.res and the scroll to the bottom. Afterwards go to RyoScore2 image panel and set it either to xpos 100000 or set visible and enabled to 0
 
 
 
