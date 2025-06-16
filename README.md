@@ -1,6 +1,7 @@
 WARNING: This hud is very work in progress so if something doesnt work please notify me
 also if you have any suggestion please tell me :)
 also also this comes with absolutely NO license :)
+also you are required to worship ryo to use this hud :)
 
 
 
@@ -13,7 +14,7 @@ this hud supports linux. i dont know if it support windows or mac because i dont
 also also this hud is built entirely from scrach so it will take a very long time to actually implement everything i want
 
 
-SCREENSHOTS:   (as of 27-5-2025 )
+SCREENSHOTS:   (as of 16-6-2025 )
 
 ![Image couldn't be loaded](Screenshot_1.png)
 
@@ -37,6 +38,10 @@ ______________________________
 ______________________________
 
 ![Image couldn't be loaded](Screenshot_6.png)
+
+______________________________
+
+![Image couldn't be loaded](Screenshot_7.png)
 
 ______________________________
 
@@ -67,4 +72,10 @@ wallpaper 4: https://wallhaven.cc/w/weee76<br />
 
 if you want to remove ryo yamada from the corner you arent a real ryo yamada fan >:(.  jk  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
 0 or by setting the xpos to 10000  
+
+If you want to delete the slightly nsfw picture on the leader board pictures go to resource/ui/scoreboard.res and the scroll to the bottom. Afterwards go to RyoScore2 image panel and set it either to xpos 100000 or set visible and enabled to 0
+
+
+
+Also I HATE EDITING THE SCOREBOARD I HATE IT . WHY DOES IT EXIST WHY WHY WHY WHY .   thats all .... as always be sure to praise ryo and give her all your money
 
