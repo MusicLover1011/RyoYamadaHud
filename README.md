@@ -90,7 +90,6 @@ Also I HATE EDITING THE SCOREBOARD I HATE IT . WHY DOES IT EXIST WHY WHY WHY WHY
 
 (15-7-2025)    (new note) i've made some pretty good progress :) 
 also also also if you want to have a bocchi the rock intro i would recommend going here::  https://gamebanana.com/mods/522685
-If you dont want the pescy crunchyroll logo in the corner go this this link and download(extract the archive) :: https://files.catbox.moe/8xy1uk.7z
 <br />
 to actually make the intro work put bocchi_intro into your custom folder. THATS ALL :))))
 
