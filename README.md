@@ -14,7 +14,7 @@ this hud supports linux. i dont know if it support windows or mac because i dont
 also also this hud is built entirely from scrach so it will take a very long time to actually implement everything i want
 
 
-SCREENSHOTS:   (as of 16-6-2025 )
+SCREENSHOTS:   (as of 15-7-2025 )
 
 ![Image couldn't be loaded](Screenshot_1.png)
 
@@ -42,6 +42,14 @@ ______________________________
 ______________________________
 
 ![Image couldn't be loaded](Screenshot_7.png)
+
+______________________________
+
+![Image couldn't be loaded](Screenshot_8.png)
+
+______________________________
+
+![Image couldn't be loaded](Screenshot_9.png)
 
 ______________________________
 
@@ -79,3 +87,11 @@ If you want to delete the slightly nsfw picture on the score board pictures go t
 
 Also I HATE EDITING THE SCOREBOARD I HATE IT . WHY DOES IT EXIST WHY WHY WHY WHY .   thats all .... as always be sure to praise ryo and give her all your money
 
+
+(new note) i've made some pretty good progress :) 
+also also also if you want to have a bocchi the rock intro i would recommend going here::  https://gamebanana.com/mods/522685
+If you dont want the pescy crunchyroll logo in the corner go this this link and download(extract the archive) :: https://files.catbox.moe/8xy1uk.7z
+<br />
+to actually make the intro work put bocchi_intro into your custom folder. THATS ALL :))))
+
+As always as i said before be sure to praise ryo and give her all your money :)))
