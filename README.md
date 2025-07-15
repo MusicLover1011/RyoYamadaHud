@@ -78,17 +78,17 @@ wallpaper 4: https://wallhaven.cc/w/weee76<br />
 <br />
 
 
-if you want to remove ryo yamada from the corner you arent a real ryo yamada fan >:(.  jk  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
+(25-5-2025)    if you want to remove ryo yamada from the corner you arent a real ryo yamada fan >:(.  jk  but also you can remove it by going to resource/ui/hudmatchstatus.res   and  going to the bottom bottom lines  and either setting the alpha to 
 0 or by setting the xpos to 10000  
 
-If you want to delete the slightly nsfw picture on the score board pictures go to resource/ui/scoreboard.res and the scroll to the bottom. Afterwards go to RyoScore2 image panel and set it either to xpos 100000 or set visible and enabled to 0
+(14-6-2025)      If you want to delete the slightly nsfw picture on the score board pictures go to resource/ui/scoreboard.res and the scroll to the bottom. Afterwards go to RyoScore2 image panel and set it either to xpos 100000 or set visible and enabled to 0
 
 
 
 Also I HATE EDITING THE SCOREBOARD I HATE IT . WHY DOES IT EXIST WHY WHY WHY WHY .   thats all .... as always be sure to praise ryo and give her all your money
 
 
-(new note) i've made some pretty good progress :) 
+(15-7-2025)    (new note) i've made some pretty good progress :) 
 also also also if you want to have a bocchi the rock intro i would recommend going here::  https://gamebanana.com/mods/522685
 If you dont want the pescy crunchyroll logo in the corner go this this link and download(extract the archive) :: https://files.catbox.moe/8xy1uk.7z
 <br />
