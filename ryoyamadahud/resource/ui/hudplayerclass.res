@@ -92,11 +92,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"			"customimages/blueborder"
-		"teambg_2"		"customimages/blueborder"
-		"teambg_2_lodef"	"customimages/blueborder"
-		"teambg_3"		"customimages/blueborder"
-		"teambg_3_lodef"	"customimages/blueborder"
 	}
 
 

@@ -552,7 +552,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -560,7 +560,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -568,7 +568,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -577,7 +577,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -586,7 +586,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"9"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -594,7 +594,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Arial"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -606,7 +606,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -614,7 +614,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -622,7 +622,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -631,7 +631,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -640,7 +640,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"9"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -724,7 +724,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -735,14 +735,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"13"	[$WIN32]
 				"tall"		"23"	[$X360]
 				"weight"	"700"
@@ -750,21 +750,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"700"
 				"antialias"	"1"
@@ -1122,7 +1122,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1223,7 +1223,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1234,7 +1234,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1245,7 +1245,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
@@ -1258,7 +1258,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"tall_hidef"	"7"
 				"weight"	"500"
@@ -1270,7 +1270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1280,7 +1280,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1291,7 +1291,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1300,7 +1300,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1309,7 +1309,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1362,7 +1362,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Unageo-Regualar"
 				"tall"		"90"
 				"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1375,7 +1375,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "Team Fortress" // tf.ttf
+				"name"  "Unageo-Regualar" // tf.ttf
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1383,7 +1383,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Verdana"
+				"name"  "Unageo-Regualar"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1394,7 +1394,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1404,7 +1404,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"weight"	"500"
 				"italic"	"1"
@@ -1415,7 +1415,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1425,7 +1425,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"weight"	"900"
 				"italic"	"1"
@@ -1436,7 +1436,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Unageo-Regualar"
 				"tall"		"16"
 				"tall_hidef"	"24"
 				"weight"	"900"
@@ -1471,7 +1471,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1481,7 +1481,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1492,7 +1492,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1503,7 +1503,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"13"
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
@@ -1517,7 +1517,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"Unageo-Regualar"
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -1532,7 +1532,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"Unageo-Regualar"
 				"tall"			"40"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -1547,7 +1547,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Professor"
+				"name"		"Unageo-Regualar"
 				"tall"		"24"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
@@ -1560,7 +1560,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Professor"
+				"name"			"Unageo-Regualar"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"tall_lodef"	"32"
@@ -1574,7 +1574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"6"
 				"weight"	"400"
 				"additive"	"0"
@@ -1585,7 +1585,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"14"
@@ -1598,7 +1598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1611,7 +1611,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1623,7 +1623,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1635,7 +1635,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1649,7 +1649,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1661,7 +1661,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1673,7 +1673,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1688,7 +1688,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -1700,7 +1700,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1710,7 +1710,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1720,7 +1720,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1729,7 +1729,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1738,7 +1738,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1750,7 +1750,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1762,7 +1762,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1773,7 +1773,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -1784,7 +1784,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1795,7 +1795,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1806,7 +1806,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -1818,7 +1818,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1832,7 +1832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1840,7 +1840,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1848,7 +1848,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1856,7 +1856,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1864,7 +1864,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1875,7 +1875,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1883,7 +1883,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1891,7 +1891,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1899,7 +1899,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1907,7 +1907,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -2013,7 +2013,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
@@ -2026,7 +2026,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"9"
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
@@ -2040,7 +2040,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"11"  [!$OSX]
 				"tall"		"9"  [$OSX]
 				"weight"	"800"
@@ -2257,7 +2257,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2268,7 +2268,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Unageo-Regualar"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2279,7 +2279,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Unageo-Regualar"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2290,7 +2290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Unageo-Regualar"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2301,7 +2301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2312,7 +2312,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2322,7 +2322,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2333,7 +2333,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2344,7 +2344,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Unageo-Regualar"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"

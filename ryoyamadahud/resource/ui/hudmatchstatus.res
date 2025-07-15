@@ -200,12 +200,12 @@
 		"fieldName"		"RoundCounter"
 		"xpos"			"cs-0.5"
 		"ypos"			"-2"
-		"zpos"			"1"		
+		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-	}	
+	}
 
 	"BGFrame"
 	{
@@ -386,14 +386,14 @@
 			"tall"			"50"
 			"zpos"			"1"
 
-			"color_portrait_bg_red"	"119 62 61 255"
-			"color_portrait_bg_blue"	"62 81 101 255"
-			"color_portrait_bg_red_dead"	"79 54 52 255"
-			"color_portrait_bg_blue_dead"	"44 49 51 255"
-			"color_bar_health_high"	"84 191 58 255"
-			"color_bar_health_med"	"191 183 58 255"
+			"color_portrait_bg_red"	"red"
+			"color_portrait_bg_blue"	"42 161 195 255"
+			"color_portrait_bg_red_dead"	"128 0 32 255"
+			"color_portrait_bg_blue_dead"	"60 96 120 255"
+			"color_bar_health_high"	"42 161 195 255"
+			"color_bar_health_med"	"42 161 195 255"
 			"percentage_health_med"	"0.6"
-			"color_bar_health_low"	"191 58 58 255"
+			"color_bar_health_low"	"42 161 195 255"
 			"percentage_health_low"	"0.3"
 			"color_portrait_blend_dead_red"	"255 255 255 255"
 			"color_portrait_blend_dead_blue" "255 255 255 255"
@@ -458,7 +458,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "42 161 195 255"
+				"bgcolor_override"	   "red"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
@@ -478,7 +478,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "0 0 0 0"
+				"bgcolor_override"	   "white"
 				"fgcolor_override"	   "255 255 255 160"
 				"proportionaltoparent"	"1"
 			}
@@ -894,7 +894,7 @@
 	}
 
 
-	/////custom images PLEASE HELP ME IM GOING INSANE HELP ME HELP ME RYO YAMADA IS THE BEST PLEASE//////////////
+	/////custom images PLEASE HELP ME IM GOING INSANE HELP ME HELP ME ( RYO YAMADA IS THE BEST )  PLEASE//////////////
 	"RyoStanding"
 	{
 		"ControlName"	         				 	"ImagePanel"

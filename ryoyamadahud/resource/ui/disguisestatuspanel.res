@@ -45,13 +45,6 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"customimages/blueborderwide"
-		"scaleImage"		"1"
-		"teambg_1"		"customimages/blueborderwide"
-		"teambg_2"		"customimages/blueborderwide"
-		"teambg_2_lodef"	"customimages/blueborderwide"
-		"teambg_3"		"customimages/blueborderwide"
-		"teambg_3_lodef"	"customimages/blueborderwide"
 		
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
