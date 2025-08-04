@@ -94,3 +94,9 @@ also also also if you want to have a bocchi the rock intro i would recommend goi
 to actually make the intro work put bocchi_intro into your custom folder. THATS ALL :))))
 
 As always as i said before be sure to praise ryo and give her all your money :)))
+
+(4-8-2025) fixed some thing AND added support for windows :)
+          check releases tab for the windows version
+
+
+          
